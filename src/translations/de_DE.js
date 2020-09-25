@@ -3,7 +3,7 @@
 module.exports = {
   "payingWith": "Zahlen mit {{paymentSource}}",
   "chooseAnotherWayToPay": "Andere Zahlungsmethode wählen",
-  "chooseAWayToPay": "Wie möchten Sie bezahlen?",
+  "chooseAWayToPay": "Wie möchtest du bezahlen?",
   "otherWaysToPay": "Andere Zahlungsmethoden",
   "edit": "Bearbeiten",
   "doneEditing": "Fertig",
